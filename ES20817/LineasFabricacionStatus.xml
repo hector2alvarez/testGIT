@@ -1,0 +1,24 @@
+<LineasFabricacionStatus>
+<row>
+	<Seccion>Segunda edicion</Seccion>
+	<Maquina>00</Maquina>
+	<Tipo>0</Tipo>
+	<Orden>DET2528058</Orden>
+	<Pedido>STOCK</Pedido>
+	<Articulo>SDLC0200000</Articulo>
+	<Descripcion>RIONEL CARGADO/EMB. MS N 20</Descripcion>
+	<Cantidad>9000</Cantidad>
+	<Pendientes>5800</Pendientes>
+	<Lote>3815Z</Lote>
+	<Presion/>
+	<Cerilla>Cargado y Embalado</Cerilla>
+	<UDM>UND</UDM>
+	<DetonadorCargado>00933242120</DetonadorCargado>
+	<DetonadorCargado2/>
+	<DetonadoresEnMaquina>1049</DetonadoresEnMaquina>
+	<DetonadoresEnMaquina2>0</DetonadoresEnMaquina2>
+	<MismoLote>0</MismoLote>
+	<Encendida>1</Encendida>
+</row>
+</LineasFabricacionStatus>
+
