@@ -1,0 +1,140 @@
+<LineasFabricacionStatus>
+<row>
+	<Seccion>EMXML</Seccion>
+	<Maquina>00</Maquina>
+	<Tipo>0</Tipo>
+	<Orden>DET2528058</Orden>
+	<Pedido>STOCK</Pedido>
+	<Articulo>SDLC0200000</Articulo>
+	<Descripcion>RIONEL CARGADO/EMB. MS N 20</Descripcion>
+	<Cantidad>9000</Cantidad>
+	<Pendientes>5800</Pendientes>
+	<Lote>3815Z</Lote>
+	<Presion/>
+	<Cerilla>Cargado y Embalado</Cerilla>
+	<UDM>UND</UDM>
+	<DetonadorCargado>00933242120</DetonadorCargado>
+	<DetonadorCargado2/>
+	<DetonadoresEnMaquina>1049</DetonadoresEnMaquina>
+	<DetonadoresEnMaquina2>0</DetonadoresEnMaquina2>
+	<MismoLote>0</MismoLote>
+	<Encendida>1</Encendida>
+</row>
+<row>
+	<Seccion>RIOXML</Seccion>
+	<Maquina>01</Maquina>
+	<Tipo>0</Tipo>
+	<Cantidad>0</Cantidad>
+	<Pendientes>0</Pendientes>
+	<Lote>0</Lote>
+	<DetonadoresEnMaquina>0</DetonadoresEnMaquina>
+	<DetonadoresEnMaquina2>0</DetonadoresEnMaquina2>
+	<MismoLote>0</MismoLote>
+</row>
+<row>
+	<Seccion>RIODET</Seccion>
+	<Maquina>02</Maquina>
+	<Tipo>0</Tipo>
+	<Orden>DET2550963</Orden>
+	<Pedido>MIS/294/24/ZA</Pedido>
+	<Articulo>SDCF08G035A</Articulo>
+	<Descripcion>RIODET SAMC N 08 3.5 m</Descripcion>
+	<Cantidad>14400</Cantidad>
+	<Pendientes>14400</Pendientes>
+	<Lote>3728</Lote>
+	<Presion>B</Presion>
+	<Cerilla>Tipo SA</Cerilla>
+	<UDM>UND</UDM>
+	<DetonadorCargado>00933245308</DetonadorCargado>
+	<DetonadorCargado2/>
+	<DetonadoresEnMaquina>0</DetonadoresEnMaquina>
+	<DetonadoresEnMaquina2>0</DetonadoresEnMaquina2>
+	<MismoLote>0</MismoLote>
+	<Encendida>1</Encendida>
+</row>
+<row>
+	<Seccion>RIODET</Seccion>
+	<Maquina>03</Maquina>
+	<Tipo>0</Tipo>
+	<Orden>DET2550781</Orden>
+	<Pedido>MIS/214/24/DE</Pedido>
+	<Articulo>SDBU12U0808</Articulo>
+	<Descripcion>RIODET I-UD G 75 N 12 8 m hFe SEC PAQ 1.4B (250 caja)</Descripcion>
+	<Cantidad>4000</Cantidad>
+	<Pendientes>3017</Pendientes>
+	<Lote>3876</Lote>
+	<Presion>A</Presion>
+	<Cerilla>Tipo I-U</Cerilla>
+	<UDM>UND</UDM>
+	<DetonadorCargado>00933240612</DetonadorCargado>
+	<DetonadorCargado2/>
+	<DetonadoresEnMaquina>695</DetonadoresEnMaquina>
+	<DetonadoresEnMaquina2>0</DetonadoresEnMaquina2>
+	<MismoLote>0</MismoLote>
+	<Encendida>1</Encendida>
+</row>
+<row>
+	<Seccion>RIODET</Seccion>
+	<Maquina>04</Maquina>
+	<Tipo>0</Tipo>
+	<Orden>DET2550975</Orden>
+	<Pedido>MIS/281/24/DE</Pedido>
+	<Articulo>SDBP10U090G</Articulo>
+	<Descripcion>RIODET I-UM N 10 9 m hFe 1.4B</Descripcion>
+	<Cantidad>250</Cantidad>
+	<Pendientes>114</Pendientes>
+	<Lote>3813</Lote>
+	<Presion>B</Presion>
+	<Cerilla>Tipo I-U</Cerilla>
+	<UDM>UND</UDM>
+	<DetonadorCargado>00933241110</DetonadorCargado>
+	<DetonadorCargado2/>
+	<DetonadoresEnMaquina>338</DetonadoresEnMaquina>
+	<DetonadoresEnMaquina2>0</DetonadoresEnMaquina2>
+	<MismoLote>0</MismoLote>
+	<Encendida>1</Encendida>
+</row>
+<row>
+	<Seccion>RIODET</Seccion>
+	<Maquina>05</Maquina>
+	<Tipo>0</Tipo>
+	<Orden>DET2550808</Orden>
+	<Pedido>STOCK</Pedido>
+	<Articulo>SDBV12V040G</Articulo>
+	<Descripcion>FIREX M N 12 4 m 1.4B</Descripcion>
+	<Cantidad>6650</Cantidad>
+	<Pendientes>6160</Pendientes>
+	<Lote>3865</Lote>
+	<Presion>A</Presion>
+	<Cerilla>Tipo V</Cerilla>
+	<UDM>UND</UDM>
+	<DetonadorCargado>00933241112</DetonadorCargado>
+	<DetonadorCargado2/>
+	<DetonadoresEnMaquina>399</DetonadoresEnMaquina>
+	<DetonadoresEnMaquina2>0</DetonadoresEnMaquina2>
+	<MismoLote>0</MismoLote>
+	<Encendida>1</Encendida>
+</row>
+<row>
+	<Seccion>RIODET</Seccion>
+	<Maquina>06</Maquina>
+	<Tipo>0</Tipo>
+	<Orden>DET2550789</Orden>
+	<Pedido>MIS/294/24/ZA</Pedido>
+	<Articulo>SDCA00G035A</Articulo>
+	<Descripcion>RIODET SAZC 3.5 m</Descripcion>
+	<Cantidad>24000</Cantidad>
+	<Pendientes>15434</Pendientes>
+	<Lote>3845</Lote>
+	<Presion/>
+	<Cerilla>Tipo SA</Cerilla>
+	<UDM>UND</UDM>
+	<DetonadorCargado>00933240005</DetonadorCargado>
+	<DetonadorCargado2/>
+	<DetonadoresEnMaquina>1230</DetonadoresEnMaquina>
+	<DetonadoresEnMaquina2>0</DetonadoresEnMaquina2>
+	<MismoLote>0</MismoLote>
+	<Encendida>1</Encendida>
+</row>
+</LineasFabricacionStatus>
+
